@@ -3,13 +3,13 @@
   "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\dotnet\\workshop 3\\Task 1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{15324569-7774-4F8A-8309-01BF32B692A7}|..\\Task 3\\Task 3.csproj|c:\\users\\asus\\desktop\\dotnet\\workshop 3\\task 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C7EB947B-E515-41ED-92F9-7DE285326DD5}|..\\Task 2\\Task 2.csproj|c:\\users\\asus\\desktop\\dotnet\\workshop 3\\task 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C7EB947B-E515-41ED-92F9-7DE285326DD5}|..\\Task 2\\Task 2.csproj|c:\\users\\asus\\desktop\\dotnet\\workshop 3\\task 2\\nulloperations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{15324569-7774-4F8A-8309-01BF32B692A7}|..\\Task 3\\Task 3.csproj|c:\\users\\asus\\desktop\\dotnet\\workshop 3\\task 3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1D11E8D6-8A0F-4588-B1FF-EFB605EA0693}|Task 1\\Task 1.csproj|c:\\users\\asus\\desktop\\dotnet\\workshop 3\\task 1\\task 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,24 +27,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "NullOperations.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\dotnet\\workshop 3\\Task 2\\NullOperations.cs",
               "RelativeDocumentMoniker": "..\\Task 2\\NullOperations.cs",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\dotnet\\workshop 3\\Task 2\\NullOperations.cs",
               "RelativeToolTip": "..\\Task 2\\NullOperations.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAwA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T02:51:14.709Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-11T02:51:14.709Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\dotnet\\workshop 3\\Task 2\\Program.cs",
               "RelativeDocumentMoniker": "..\\Task 2\\Program.cs",
@@ -52,18 +51,17 @@
               "RelativeToolTip": "..\\Task 2\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T02:50:05.889Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-11T02:50:05.889Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\dotnet\\workshop 3\\Task 3\\Program.cs",
               "RelativeDocumentMoniker": "..\\Task 3\\Program.cs",
               "ToolTip": "C:\\Users\\ASUS\\Desktop\\dotnet\\workshop 3\\Task 3\\Program.cs",
               "RelativeToolTip": "..\\Task 3\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-11T02:49:18.675Z",
               "EditorCaption": ""
@@ -90,8 +88,7 @@
               "RelativeToolTip": "Task 1\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-11T02:17:47.358Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-11T02:17:47.358Z"
             }
           ]
         }
