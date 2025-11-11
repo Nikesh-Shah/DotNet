@@ -1,0 +1,3 @@
+﻿  
+
+NullOperations.PerformNullChecks();
