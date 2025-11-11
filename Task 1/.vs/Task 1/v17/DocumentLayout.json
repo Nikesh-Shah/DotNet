@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\dotnet\\workshop 3\\Task 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D11E8D6-8A0F-4588-B1FF-EFB605EA0693}|Task 1\\Task 1.csproj|c:\\users\\asus\\desktop\\dotnet\\workshop 3\\task 1\\task 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D11E8D6-8A0F-4588-B1FF-EFB605EA0693}|Task 1\\Task 1.csproj|solutionrelative:task 1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D11E8D6-8A0F-4588-B1FF-EFB605EA0693}|Task 1\\Task 1.csproj|c:\\users\\asus\\desktop\\dotnet\\workshop 3\\task 1\\task 1\\operator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D11E8D6-8A0F-4588-B1FF-EFB605EA0693}|Task 1\\Task 1.csproj|solutionrelative:task 1\\operator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Operator.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\dotnet\\workshop 3\\Task 1\\Task 1\\Operator.cs",
+              "RelativeDocumentMoniker": "Task 1\\Operator.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\dotnet\\workshop 3\\Task 1\\Task 1\\Operator.cs",
+              "RelativeToolTip": "Task 1\\Operator.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T02:19:53.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\dotnet\\workshop 3\\Task 1\\Task 1\\Program.cs",
+              "RelativeDocumentMoniker": "Task 1\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\dotnet\\workshop 3\\Task 1\\Task 1\\Program.cs",
+              "RelativeToolTip": "Task 1\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-11T02:17:47.358Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
